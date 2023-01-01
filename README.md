@@ -26,8 +26,13 @@
 
 ### 📊 Статистика
 <div id="stats" align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=reyzitwo&show_icons=true&theme=nord"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzitwo&theme=nord_dark&utcOffset=5"/>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=reyzitwo&show_icons=true&theme=nord"/>
+  <a/>
+	
+  <a href="#">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzitwo&theme=nord_dark&utcOffset=5"/>
+  <a/>
 </div>
 
 <br/>
