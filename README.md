@@ -27,7 +27,7 @@
 ### 📊 Статистика
 <div id="stats" align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=reyzitwo&show_icons=true&theme=nord"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzitwo&theme=nord_dark&utcOffset=3"/>
+	<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzitwo&theme=nord_dark&utcOffset=5"/>
 </div>
 
 <br/>
