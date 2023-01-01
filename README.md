@@ -1,7 +1,7 @@
 <div id="header" align="center">
-	<h1>👋 Хай, я Александр!</h1>
-	<h3>
-    Fronted-разработчик в <a href="https://vk.com/club207242736" target="_blank">koka team</a>
+  <h1>👋 Хай, я Александр!</h1>
+  <h3>
+    Frontend-разработчик в <a href="https://vk.com/club207242736" target="_blank">koka team</a>
   </h3>
 </div>
 
