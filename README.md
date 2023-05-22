@@ -19,8 +19,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=reyzitwo&repo=vk-mini-app-boilerplate&theme=nord&update=true"/>
   <a/>
   
-  <a href="https://github.com/reyzitwo/react-router-vkminiapps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reyzitwo&repo=react-router-vkminiapps&theme=nord"/>
+  <a href="https://github.com/kokateam/router-vkminiapps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kokateam&repo=router-vkminiapps&theme=nord"/>
   <a/>
 </div>
 
