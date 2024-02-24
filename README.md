@@ -9,7 +9,7 @@
 
 Пишу сервисы VK Mini Apps и нативные приложения на iOS\Android.
 
-- 🏃‍♂️ Мне 17, живу в Челябинске
+- 🏃‍♂️ Мне 18, живу в Челябинске
 - 🛠️ Мой стек: NodeJS, React + Redux/Recoil, Capacitor, Tauri 
 - 💻 MacBook Pro i7
 
