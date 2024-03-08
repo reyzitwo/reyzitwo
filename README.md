@@ -43,4 +43,6 @@
 <br/>
 
 [![VK Badge](https://img.shields.io/badge/VK-Profile-informational?style=flat&logo=vk&logoColor=white&color=0D76A8)](https://vk.com/id566935204)
+<!---
 [![Telegram Badge](https://img.shields.io/badge/Telegram-Write-informational?style=flat&logo=telegram&logoColor=white&color=0D76A8)](https://t.me/reyzitwo)
+-->
