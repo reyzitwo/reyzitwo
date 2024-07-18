@@ -16,23 +16,23 @@
 ### 💼 Открытые проекты
 <div id="stats" align="center">
   <a href="https://github.com/reyzitwo/vk-mini-app-boilerplate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reyzitwo&repo=vk-mini-app-boilerplate&theme=nord&update=true&cache=false"/>
+    <img src="https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=reyzitwo&repo=vk-mini-app-boilerplate&theme=nord&update=true&cache=false"/>
   <a/>
   
   <a href="https://github.com/kokateam/router-vkminiapps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kokateam&repo=router-vkminiapps&theme=nord"/>
+    <img src="https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=kokateam&repo=router-vkminiapps&theme=nord"/>
   <a/>
 </div>
 <div id="stats" align="center">
   <a href="https://github.com/reyzitwo/autodeploy-git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reyzitwo&repo=autodeploy-git&theme=nord&update=true&cache=false"/>
+    <img src="https://github-readme-stats-reyzitwos-projects.vercel.app/api/pin/?username=reyzitwo&repo=autodeploy-git&theme=nord&update=true&cache=false"/>
   <a/>
 </div>
 
 ### 📊 Статистика
 <div id="stats" align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=reyzitwo&show_icons=true&theme=nord"/>
+    <img src="https://github-readme-stats-reyzitwos-projects.vercel.app/api?username=reyzitwo&show_icons=true&theme=nord"/>
   <a/>
 	
   <a href="#">
