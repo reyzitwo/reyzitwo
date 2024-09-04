@@ -9,7 +9,7 @@
 
 Пишу сервисы VK Mini Apps и нативные приложения на iOS\Android.
 
-- 🏃‍♂️ Мне 18, живу в Челябинске
+- 🏃‍♂️ Мне 18, живу в Санкт-Петербурге
 - 🛠️ Мой стек: NodeJS, React + Redux/Recoil, Capacitor, Tauri 
 - 💻 MacBook Pro i7
 
@@ -36,7 +36,7 @@
   <a/>
 	
   <a href="#">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzitwo&theme=nord_dark&utcOffset=5"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reyzitwo&theme=nord_dark&utcOffset=3"/>
   <a/>
 </div>
 
