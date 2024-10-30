@@ -1,17 +1,14 @@
 <div id="header" align="center">
   <h1>👋 Хай, я Александр!</h1>
-  <h3>
-    Frontend-разработчик в <a href="https://vk.com/club207242736" target="_blank">koka team</a>
-  </h3>
 </div>
 
 ### 👨‍💻 Обо мне
 
-Пишу сервисы VK Mini Apps и нативные приложения на iOS\Android.
+Пишу сервисы VK Mini Apps, нативные приложения на iOS\Android и занимаюсь написанием автотестов.
 
 - 🏃‍♂️ Мне 18, живу в Санкт-Петербурге
 - 🛠️ Мой стек: NodeJS, React + Redux/Recoil, Capacitor, Tauri 
-- 💻 MacBook Pro i7
+- 💻 MacBook Pro на M1 Pro
 
 ### 💼 Открытые проекты
 <div id="stats" align="center">
